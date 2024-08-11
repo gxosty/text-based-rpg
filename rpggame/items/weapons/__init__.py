@@ -1,0 +1,1 @@
+from .armour import WeaponItem
